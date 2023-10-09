@@ -10,10 +10,6 @@ Jack Chuang, Warren Shen, Thomas Lin, John Cheng / University of Washington, Mar
 
 [Here is the link to the final presentation](https://youtu.be/7m5on6q3soQ)
 
-## Github repository
-
-[This is the link to the Github repository](https://github.com/Jack-Chuang/UW-CSE-455/tree/main/final%20project)
-
 ## Abstract
 
 This project contains the training implementation with CIFAR-10 based on EfficientNet and Cutout. An integrational model is built with the idea of reinforced scaling and baseline. The best training result of the model is 87% accuracy.
